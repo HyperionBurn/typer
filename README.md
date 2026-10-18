@@ -54,9 +54,9 @@ $ uv add typer
 
 </div>
 
-This installs both the Typer library and the `typer` command in the project's virtual environment. To use `typer` directly with shell completion, [activate the project environment and install completion](tutorial/install.md#activate-the-virtual-environment).
+This installs both the Typer library and the `typer` command in the project's virtual environment. To use `typer` directly with shell completion, [activate the project environment and install completion](docs/tutorial/install.md#activate-the-virtual-environment).
 
-If you prefer to use `pip`, install `typer` inside a virtual environment. See the [installation guide](tutorial/install.md) for the alternative steps.
+If you prefer to use `pip`, install `typer` inside a virtual environment. See the [installation guide](docs/tutorial/install.md) for the alternative steps.
 
 ## Example
 
